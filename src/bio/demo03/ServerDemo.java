@@ -8,7 +8,7 @@ import java.net.ServerSocket;
 import java.net.Socket;
 
 /**
- * 服务端 反复发送接收
+ * 服务端 接收多个客户端连接
  *
  * @author zhangling 2021/5/12 13:24
  */
