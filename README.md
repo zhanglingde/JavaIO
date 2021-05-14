@@ -10,4 +10,9 @@ BIO、NIO、AIO
 - sendfile: 服务端接收客户端发送的任意文件
 - portForward: 端口转发，客户端发送给服务端的消息，服务端转发给所有客户端（群聊）
 
+# NIO
+
+- demo06：入门案例
+- demo07：群聊
+
  
